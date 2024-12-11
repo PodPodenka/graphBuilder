@@ -1,5 +1,7 @@
 THE PROGRAM AND ALL THE COMMENTS ARE WRITTEN ON RUSSIAN!!!
 
+Numpy, Matplotlib, Numexpr и Pyautogui addictive libraries used.
+
 Input notation examples:
 x, x**2, abs(x), sin(x)...
 
